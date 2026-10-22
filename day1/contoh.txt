@@ -3,9 +3,13 @@ ini line 2
 ini line 3
 ini line 4
 
-ini line baru
-ini line baru lagi
-ini line baru lagi dan
-ini line baru lagi dan lagi
+ini line 1
+ini line 2
+ini line 3
+ini line 4
 
-ini lagi line baru
+ini line 1
+ini line 2
+ini line 3
+ini line 4
+
